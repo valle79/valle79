@@ -22,35 +22,90 @@
       <sub>Perú 🇵🇪</sub>
     </td>
     <td valign="middle">
-      <h2>Hola, soy Luis Alberto 👋</h2>
-      <h3>Estudiante de Análisis de Sistemas</h3>
-      <p><strong>Instituto Valle Grande</strong></p>
 
-      <p>
-        Me interesa diseñar y desarrollar soluciones de software que respondan
-        a necesidades reales, combinando desarrollo web, bases de datos e
-        integración de servicios.
-      </p>
+<h2>Hola, soy Luis Alberto Valle Coronado 👋</h2>
 
-      <p>
-        Trabajo en proyectos que abarcan desde la construcción de interfaces
-        hasta la implementación de funcionalidades backend y la gestión de
-        información.
-      </p>
+<h3>Estudiante de Análisis de Sistemas | Desarrollo de Software</h3>
 
-      <p><strong>Mi enfoque:</strong></p>
-      <ul>
-        <li>Desarrollo de aplicaciones web.</li>
-        <li>Integración de frontend, backend y bases de datos.</li>
-        <li>Código limpio y buenas prácticas de desarrollo.</li>
-        <li>Aprendizaje continuo y resolución de problemas.</li>
-      </ul>
+<p>
+  🎓 <strong>Formación:</strong> Instituto Valle Grande · Perú
+</p>
 
-      <p>
-        <a href="https://github.com/valle79">GitHub</a>
-        &nbsp; · &nbsp;
-        <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">LinkedIn</a>
-      </p>
+<p>
+  Me interesa el análisis, diseño y desarrollo de soluciones tecnológicas
+  orientadas a resolver necesidades reales de negocio. Mi enfoque combina
+  el desarrollo de aplicaciones web, la gestión de bases de datos y la
+  integración de servicios para construir sistemas funcionales, organizados
+  y mantenibles.
+</p>
+
+<p>
+  A través de mis proyectos, busco fortalecer mis conocimientos técnicos,
+  mejorar mi capacidad para resolver problemas y comprender las distintas
+  etapas del desarrollo de software, desde la interfaz de usuario hasta
+  la lógica del servidor y la persistencia de datos.
+</p>
+
+<h3>💡 Áreas de interés</h3>
+
+<ul>
+  <li>
+    <strong>Desarrollo frontend:</strong>
+    construcción de interfaces intuitivas, responsivas y orientadas a la
+    experiencia del usuario.
+  </li>
+  <li>
+    <strong>Desarrollo backend:</strong>
+    implementación de funcionalidades, lógica de negocio e integración
+    de servicios.
+  </li>
+  <li>
+    <strong>Bases de datos:</strong>
+    estructuración, almacenamiento y consulta de información mediante
+    bases de datos relacionales.
+  </li>
+  <li>
+    <strong>Arquitectura y calidad de software:</strong>
+    interés en código limpio, separación de responsabilidades,
+    mantenibilidad y buenas prácticas.
+  </li>
+  <li>
+    <strong>Integración tecnológica:</strong>
+    conexión entre interfaces, APIs, servicios externos y sistemas
+    de almacenamiento.
+  </li>
+</ul>
+
+<h3>🚀 Cómo aporto valor</h3>
+
+<ul>
+  <li>Enfoque analítico para comprender problemas y plantear soluciones.</li>
+  <li>Interés por desarrollar software organizado, escalable y mantenible.</li>
+  <li>Capacidad para aprender nuevas tecnologías mediante la práctica.</li>
+  <li>Atención a la funcionalidad, la experiencia del usuario y la calidad del código.</li>
+  <li>Compromiso con la mejora continua y el aprendizaje profesional.</li>
+</ul>
+
+<h3>🎯 Objetivo profesional</h3>
+
+<p>
+  Continuar creciendo en el sector tecnológico, participar en proyectos
+  de desarrollo de software y aportar a equipos de trabajo que valoren
+  la colaboración, la innovación y las buenas prácticas de ingeniería.
+  Estoy interesado en oportunidades que me permitan aplicar mis
+  conocimientos, asumir nuevos retos y seguir desarrollando mis
+  competencias técnicas.
+</p>
+
+<p>
+  <a href="https://github.com/valle79">
+    <img src="https://img.shields.io/badge/GitHub-Explorar%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos en GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil profesional en LinkedIn"/>
+  </a>
+</p>
+
     </td>
   </tr>
 </table>
