@@ -105,21 +105,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil profesional en LinkedIn"/>
   </a>
 </p>
-
-    </td>
   </tr>
 </table>
-
----
-
-
-## SOBRE MÍ
-
-Soy estudiante de Análisis de Sistemas en el Instituto Valle Grande, interesado en seguir creciendo en el desarrollo de software y participar en proyectos tecnológicos.
-
-Me gusta comprender las necesidades de un sistema, estructurar sus funcionalidades y convertirlas en soluciones prácticas. Mis proyectos personales me permiten trabajar con distintas tecnologías y reforzar mis conocimientos en desarrollo web, persistencia de datos e integración de servicios.
-
-**Objetivo profesional:** incorporarme a un equipo tecnológico donde pueda aportar, aprender y continuar desarrollando soluciones de software de calidad.
 
 ---
 
