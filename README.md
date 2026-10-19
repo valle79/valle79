@@ -1,59 +1,62 @@
 
+
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,45:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=SYSTEMS%20ANALYSIS%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=57&descSize=13"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:07111F,50:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=AN%C3%81LISIS%20DE%20SISTEMAS%20%7C%20DESARROLLO%20DE%20SOFTWARE&descAlignY=58&descSize=14"
     width="100%"
-    alt="Luis Alberto Valle Coronado - Desarrollo de software"
+    alt="Encabezado profesional"
   />
 </div>
 
-<div align="center">
-  <a href="https://github.com/valle79">
-    <img src="https://img.shields.io/badge/GitHub-valle79-0B1220?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Ubicación-Perú-0E7490?style=flat-square" alt="Perú"/>
-</div>
-
-<br/>
-
 <table>
   <tr>
-    <td width="230" align="center" valign="middle">
+    <td width="220" align="center" valign="middle">
       <img
         src="./assets/foto-perfil.jpg"
-        width="185"
-        alt="Fotografía profesional de Luis Alberto Valle Coronado"
+        width="170"
+        alt="Fotografía de perfil"
       />
       <br/><br/>
       <strong>DESARROLLO DE SOFTWARE</strong>
       <br/>
-      <sub>Análisis de Sistemas</sub>
+      <sub>Perú 🇵🇪</sub>
     </td>
     <td valign="middle">
-      <h1>Hola, soy Luis Alberto 👋</h1>
-      <h3>Estudiante de Análisis de Sistemas · Instituto Valle Grande</h3>
+      <h2>Hola, soy Luis Alberto 👋</h2>
+      <h3>Estudiante de Análisis de Sistemas</h3>
+      <p><strong>Instituto Valle Grande</strong></p>
 
-      Me interesa diseñar y desarrollar soluciones de software que respondan a necesidades reales, combinando desarrollo web, bases de datos e integración de servicios.
+      <p>
+        Me interesa diseñar y desarrollar soluciones de software que respondan
+        a necesidades reales, combinando desarrollo web, bases de datos e
+        integración de servicios.
+      </p>
 
-      Actualmente trabajo en proyectos que abarcan desde la construcción de interfaces hasta la implementación de funcionalidades backend y la gestión de información.
+      <p>
+        Trabajo en proyectos que abarcan desde la construcción de interfaces
+        hasta la implementación de funcionalidades backend y la gestión de
+        información.
+      </p>
 
-      <br/>
-
-      <strong>Mi enfoque:</strong>
+      <p><strong>Mi enfoque:</strong></p>
       <ul>
         <li>Desarrollo de aplicaciones web.</li>
         <li>Integración de frontend, backend y bases de datos.</li>
-        <li>Organización del código y buenas prácticas de desarrollo.</li>
+        <li>Código limpio y buenas prácticas de desarrollo.</li>
         <li>Aprendizaje continuo y resolución de problemas.</li>
       </ul>
+
+      <p>
+        <a href="https://github.com/valle79">GitHub</a>
+        &nbsp; · &nbsp;
+        <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">LinkedIn</a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## SOBRE MÍ
 
