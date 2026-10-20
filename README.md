@@ -2,14 +2,6 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,40:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=BACKEND%20%26%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=15&animation=fadeIn&section=header"
-    width="100%"
-    alt="Encabezado profesional de Luis Alberto Valle Coronado"
-  />
-
-  <br/>
-
-  <img
     src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot;Arquitectura+de+Software;APIs+y+Microservicios;React+%26+TypeScript;PostgreSQL+%26+Docker"
     alt="Backend · Java · Spring · Arquitectura · Microservicios · React"
   />
