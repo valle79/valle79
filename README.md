@@ -1,12 +1,25 @@
 
-
 <div align="center">
+
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:07111F,50:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=AN%C3%81LISIS%20DE%20SISTEMAS%20%7C%20DESARROLLO%20DE%20SOFTWARE&descAlignY=58&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111F,50:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL-STACK&descAlignY=58&descSize=14"
     width="100%"
-    alt="Encabezado profesional"
+    alt="Encabezado profesional de Luis Alberto Valle Coronado"
   />
+
+  <br/>
+
+  <a href="https://github.com/valle79">
+    <img src="https://img.shields.io/badge/GitHub-valle79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Ubicación-Perú-087E8B?style=for-the-badge" alt="Perú"/>
+
 </div>
+
+---
 
 <table>
   <tr>
@@ -17,104 +30,72 @@
         alt="Fotografía de perfil"
       />
       <br/><br/>
-      <strong>DESARROLLO DE SOFTWARE</strong>
+      <strong>SOFTWARE DEVELOPMENT</strong>
       <br/>
       <sub>Perú 🇵🇪</sub>
     </td>
     <td valign="middle">
 
-<h2>Hola, soy Luis Alberto Valle Coronado 👋</h2>
+## Hola, soy Luis Alberto Valle Coronado 👋
 
-<h3>Estudiante de Análisis de Sistemas | Desarrollo de Software</h3>
+### Estudiante de Análisis de Sistemas | Desarrollo de Software
 
-<p>
-  🎓 <strong>Formación:</strong> Instituto Valle Grande · Perú
-</p>
+🎓 **Formación:** Instituto Valle Grande · Perú
 
-<p>
-  Me interesa el análisis, diseño y desarrollo de soluciones tecnológicas
-  orientadas a resolver necesidades reales de negocio. Mi enfoque combina
-  el desarrollo de aplicaciones web, la gestión de bases de datos y la
-  integración de servicios para construir sistemas funcionales, organizados
-  y mantenibles.
-</p>
+Me enfoco en el análisis, diseño y desarrollo de soluciones tecnológicas orientadas a resolver necesidades reales. A través de proyectos prácticos, trabajo en la integración de aplicaciones web, servicios backend, APIs y bases de datos para construir sistemas funcionales, organizados y mantenibles.
 
-<p>
-  A través de mis proyectos, busco fortalecer mis conocimientos técnicos,
-  mejorar mi capacidad para resolver problemas y comprender las distintas
-  etapas del desarrollo de software, desde la interfaz de usuario hasta
-  la lógica del servidor y la persistencia de datos.
-</p>
+Mi interés profesional se centra en el desarrollo backend y full-stack, la arquitectura de software, los microservicios y las tecnologías que permiten desarrollar, desplegar y mantener aplicaciones modernas.
 
-<h3>💡 Áreas de interés</h3>
+Busco fortalecer continuamente mis competencias técnicas mediante la práctica, la resolución de problemas y la aplicación de buenas prácticas de ingeniería de software.
 
-<ul>
-  <li>
-    <strong>Desarrollo frontend:</strong>
-    construcción de interfaces intuitivas, responsivas y orientadas a la
-    experiencia del usuario.
-  </li>
-  <li>
-    <strong>Desarrollo backend:</strong>
-    implementación de funcionalidades, lógica de negocio e integración
-    de servicios.
-  </li>
-  <li>
-    <strong>Bases de datos:</strong>
-    estructuración, almacenamiento y consulta de información mediante
-    bases de datos relacionales.
-  </li>
-  <li>
-    <strong>Arquitectura y calidad de software:</strong>
-    interés en código limpio, separación de responsabilidades,
-    mantenibilidad y buenas prácticas.
-  </li>
-  <li>
-    <strong>Integración tecnológica:</strong>
-    conexión entre interfaces, APIs, servicios externos y sistemas
-    de almacenamiento.
-  </li>
-</ul>
-
-<h3>🚀 Cómo aporto valor</h3>
-
-<ul>
-  <li>Enfoque analítico para comprender problemas y plantear soluciones.</li>
-  <li>Interés por desarrollar software organizado, escalable y mantenible.</li>
-  <li>Capacidad para aprender nuevas tecnologías mediante la práctica.</li>
-  <li>Atención a la funcionalidad, la experiencia del usuario y la calidad del código.</li>
-  <li>Compromiso con la mejora continua y el aprendizaje profesional.</li>
-</ul>
-
-<h3>🎯 Objetivo profesional</h3>
-
-<p>
-  Continuar creciendo en el sector tecnológico, participar en proyectos
-  de desarrollo de software y aportar a equipos de trabajo que valoren
-  la colaboración, la innovación y las buenas prácticas de ingeniería.
-  Estoy interesado en oportunidades que me permitan aplicar mis
-  conocimientos, asumir nuevos retos y seguir desarrollando mis
-  competencias técnicas.
-</p>
-
-<p>
-  <a href="https://github.com/valle79">
-    <img src="https://img.shields.io/badge/GitHub-Explorar%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar proyectos en GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil profesional en LinkedIn"/>
-  </a>
-</p>
+    </td>
   </tr>
 </table>
 
+## 💡 Áreas de especialización e interés
+
+- **Desarrollo backend:** implementación de lógica de negocio, servicios, APIs REST e integración de componentes.
+- **Arquitectura de software:** principios de arquitectura hexagonal, modularidad, separación de responsabilidades y diseño mantenible.
+- **Microservicios:** interés en el diseño e integración de servicios independientes.
+- **Desarrollo frontend:** construcción de interfaces web modernas, responsivas y orientadas a la experiencia del usuario.
+- **Bases de datos:** modelado, consultas, persistencia e integración de datos relacionales.
+- **DevOps y despliegue:** contenerización con Docker, Kubernetes y automatización mediante pipelines CI/CD.
+- **Calidad de software:** código limpio, organización del proyecto, mantenibilidad y mejora continua.
+
+## 🚀 Cómo aporto valor
+
+- Enfoque analítico para comprender requerimientos y plantear soluciones técnicas.
+- Interés en construir aplicaciones modulares, organizadas y mantenibles.
+- Integración entre interfaces, APIs, servicios backend y bases de datos.
+- Aprendizaje continuo de tecnologías y herramientas de desarrollo.
+- Atención a la funcionalidad, la calidad del código y la experiencia del usuario.
+- Compromiso con la documentación, la mejora continua y el trabajo colaborativo.
+
+## 🎯 Objetivo profesional
+
+Continuar desarrollándome en el sector tecnológico, participar en proyectos de ingeniería de software y aportar soluciones que respondan a necesidades reales de negocio.
+
+Me interesa especialmente crecer en el desarrollo backend con Java y Spring, la construcción de APIs, la arquitectura de software, los sistemas distribuidos y las prácticas de despliegue y automatización. Busco oportunidades que me permitan aplicar mis conocimientos, asumir nuevos desafíos y seguir fortaleciendo mis competencias profesionales.
+
+<div align="center">
+
+  <a href="https://github.com/valle79">
+    <img src="https://img.shields.io/badge/GitHub-Explorar%20mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis proyectos"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn"/>
+  </a>
+
+</div>
+
 ---
 
-## TECNOLOGÍAS Y HERRAMIENTAS
+# 🧰 Tecnologías y herramientas
 
-### Lenguajes y desarrollo web
+## Lenguajes de programación y desarrollo web
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -122,7 +103,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -131,16 +112,43 @@
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge" alt="TanStack Query"/>
 </p>
 
-### Backend y datos
+## Backend y frameworks
 
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/REST_APIs-123B5D?style=for-the-badge" alt="REST APIs"/>
 </p>
 
-### Herramientas
+## Arquitectura y diseño de software
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-087E8B?style=for-the-badge" alt="Microservicios"/>
+  <img src="https://img.shields.io/badge/Hexagonal_Architecture-334155?style=for-the-badge" alt="Arquitectura hexagonal"/>
+  <img src="https://img.shields.io/badge/Clean_Code-475569?style=for-the-badge" alt="Código limpio"/>
+</p>
+
+## Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/>
+</p>
+
+## DevOps, infraestructura y despliegue
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-087E8B?style=for-the-badge" alt="Integración y despliegue continuos"/>
+</p>
+
+## Herramientas de desarrollo y control de versiones
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -150,43 +158,50 @@
 
 ---
 
-## PROYECTOS DESTACADOS
+# 🚀 Proyectos destacados
 
-### 01 · NETLAND
-**Plataforma de gestión inmobiliaria**
+## 01 · NETLAND
 
-Sistema orientado a la presentación y administración de proyectos inmobiliarios. Incluye funcionalidades para organizar proyectos, lotes, material multimedia y procesos comerciales mediante herramientas administrativas.
+### Plataforma de gestión inmobiliaria
+
+NETLAND es una aplicación orientada a la presentación y administración de proyectos inmobiliarios. El proyecto contempla funcionalidades para organizar información de proyectos y lotes, administrar recursos multimedia y apoyar procesos comerciales mediante herramientas administrativas.
+
+### Funcionalidades trabajadas
+
+- Presentación y gestión de proyectos inmobiliarios.
+- Organización de lotes e información relacionada.
+- Administración de imágenes, videos y documentos.
+- Herramientas para clientes potenciales y seguimiento comercial.
+- Gestión de cotizaciones, visitas y usuarios, según los módulos implementados.
+
+### Tecnologías utilizadas
+
+`Python` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
+
+### Capturas del proyecto
 
 <table>
   <tr>
-    <td align="center">
+    <td width="50%" align="center" valign="top">
       <img
         src="./assets/proyectos/netland-inicio.png"
         width="100%"
-        alt="Captura real de la página principal de Netland"
+        alt="Página principal de Netland"
       />
-      <sub>01 · Interfaz pública</sub>
+      <br/>
+      <strong>01 · Interfaz pública</strong>
     </td>
-    <td align="center">
+    <td width="50%" align="center" valign="top">
       <img
         src="./assets/proyectos/netland-panel.png"
         width="100%"
-        alt="Captura real del panel de gestión de Netland"
+        alt="Panel administrativo de Netland"
       />
-      <sub>02 · Panel de administración</sub>
+      <br/>
+      <strong>02 · Panel de administración</strong>
     </td>
   </tr>
 </table>
-
-**Funcionalidades trabajadas**
-- Gestión y presentación de proyectos inmobiliarios.
-- Organización de lotes, imágenes, videos y documentos.
-- Herramientas administrativas para clientes potenciales y seguimiento comercial.
-- Gestión de cotizaciones, visitas y usuarios según los módulos implementados.
-
-**Tecnologías**
-
-`Python` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
 
 <div align="center">
   <a href="https://github.com/valle79/web-netland">
@@ -196,41 +211,48 @@ Sistema orientado a la presentación y administración de proyectos inmobiliario
 
 ---
 
-### 02 · KARVATECH
-**Plataforma web para el sector automotriz**
+## 02 · KARVATECH
 
-Proyecto web con enfoque en la presentación de soluciones del sector automotriz, gestión de proyectos publicados y recepción de consultas mediante servicios integrados.
+### Plataforma web para el sector automotriz
+
+KARVATECH es un proyecto web enfocado en la presentación de soluciones del sector automotriz, la publicación de proyectos y la recepción de consultas mediante servicios integrados.
+
+### Funcionalidades trabajadas
+
+- Desarrollo de interfaces para presentar información y proyectos.
+- Integración con Supabase y servicios de datos.
+- Autenticación y configuración del acceso administrativo.
+- Formulario público de contacto.
+- Integración de funciones backend y servicios de almacenamiento de información.
+
+### Tecnologías utilizadas
+
+`JavaScript` · `React` · `Vite` · `Supabase` · `PostgreSQL`
+
+### Capturas del proyecto
 
 <table>
   <tr>
-    <td align="center">
+    <td width="50%" align="center" valign="top">
       <img
         src="./assets/proyectos/karvatech-inicio.png"
         width="100%"
-        alt="Captura real de la página principal de KARVATECH"
+        alt="Página principal de KARVATECH"
       />
-      <sub>01 · Página principal</sub>
+      <br/>
+      <strong>01 · Página principal</strong>
     </td>
-    <td align="center">
+    <td width="50%" align="center" valign="top">
       <img
         src="./assets/proyectos/karvatech-admin.png"
         width="100%"
-        alt="Captura real del panel administrativo de KARVATECH"
+        alt="Panel administrativo de KARVATECH"
       />
-      <sub>02 · Gestión de contenido</sub>
+      <br/>
+      <strong>02 · Gestión de contenido</strong>
     </td>
   </tr>
 </table>
-
-**Funcionalidades trabajadas**
-- Interfaces web para presentar información y proyectos.
-- Integración con Supabase y servicios de datos.
-- Autenticación y configuración de acceso administrativo.
-- Formulario público de contacto e integración de funciones backend.
-
-**Tecnologías**
-
-`JavaScript` · `React` · `Vite` · `Supabase` · `PostgreSQL`
 
 <div align="center">
   <a href="https://github.com/luisvc261190/karvatech-supabase">
@@ -240,78 +262,101 @@ Proyecto web con enfoque en la presentación de soluciones del sector automotriz
 
 ---
 
-## CÓMO TRABAJO
+# 🧩 Cómo trabajo
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 · Código limpio</h3>
-      Busco mantener una estructura clara, facilitar la lectura y reducir la complejidad innecesaria.
+      Busco mantener una estructura clara, mejorar la legibilidad y evitar complejidad innecesaria para facilitar el mantenimiento.
     </td>
     <td width="50%" valign="top">
-      <h3>02 · Organización</h3>
-      Procuro separar responsabilidades y estructurar los componentes para facilitar el mantenimiento.
+      <h3>02 · Organización y arquitectura</h3>
+      Me interesa separar responsabilidades, estructurar componentes y aplicar principios de diseño que faciliten la evolución del software.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 · Datos e integración</h3>
-      Trabajo con bases de datos y servicios para conectar las distintas partes de una aplicación.
+      Trabajo en la conexión entre interfaces, APIs, servicios backend y bases de datos para construir aplicaciones integradas.
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Aprendizaje continuo</h3>
-      Fortalezco mis conocimientos mediante la práctica y el desarrollo de proyectos.
+      <h3>04 · Resolución de problemas</h3>
+      Analizo requerimientos, identifico necesidades y busco soluciones prácticas mediante la experimentación y el desarrollo.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · Automatización y despliegue</h3>
+      Me interesa comprender y aplicar herramientas de contenerización, orquestación y automatización del ciclo de desarrollo.
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · Aprendizaje continuo</h3>
+      Fortalezco mis conocimientos mediante proyectos, documentación técnica y exploración de nuevas tecnologías.
     </td>
   </tr>
 </table>
 
 ---
 
-## ACTIVIDAD EN GITHUB
+# 📊 Actividad en GitHub
 
 <div align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=valle79&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=2DD4BF&text_color=E2E8F0&locale=es"
     width="49%"
     alt="Estadísticas de actividad de GitHub"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=valle79&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&locale=es"
     width="41%"
-    alt="Lenguajes presentes en los repositorios"
+    alt="Lenguajes más presentes en los repositorios"
   />
+
 </div>
 
 <div align="center">
+
   <img
     src="https://streak-stats.demolab.com?user=valle79&theme=dark&hide_border=true&background=0B1220&ring=38BDF8&fire=2DD4BF&currStreakLabel=38BDF8"
     width="70%"
-    alt="Actividad consecutiva en GitHub"
+    alt="Racha de actividad en GitHub"
   />
+
 </div>
 
 ---
 
-## CONTACTO PROFESIONAL
+# 📫 Contacto profesional
 
-¿Tienes una oportunidad, una idea o un proyecto tecnológico? Me interesa conectar con personas y equipos que trabajen en el desarrollo de software.
+¿Tienes una oportunidad, una idea o un proyecto tecnológico?
+
+Me interesa conectar con profesionales, desarrolladores y equipos de trabajo que compartan el interés por crear soluciones tecnológicas, mejorar procesos y desarrollar software de calidad.
 
 <div align="center">
+
   <a href="https://github.com/valle79">
-    <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github" alt="Ver perfil de GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explorar%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios en GitHub"/>
   </a>
+
   <a href="https://www.linkedin.com/in/luis-alberto-valle-coronado-50b2591ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="Conectar en LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visitar perfil de LinkedIn"/>
   </a>
+
 </div>
 
 <br/>
 
 <div align="center">
+
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:087E8B,100:07111F"
     width="100%"
     alt="Cierre del portafolio"
   />
-  <sub>Aprender · Construir · Mejorar · Compartir</sub>
+
+  <sub>Analizar · Diseñar · Construir · Mejorar · Compartir</sub>
+
 </div>
