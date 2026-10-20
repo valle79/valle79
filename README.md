@@ -48,7 +48,6 @@ Mi interés profesional se centra en el desarrollo backend y full-stack, la arqu
 
 Busco fortalecer continuamente mis competencias técnicas mediante la práctica, la resolución de problemas y la aplicación de buenas prácticas de ingeniería de software.
 
-    </td>
   </tr>
 </table>
 
