@@ -159,7 +159,44 @@ Me interesa especialmente crecer en el desarrollo backend con Java y Spring, la 
 
 # 🚀 Proyectos destacados
 
-## 01 · NETLAND
+## 01 · IQUENOBOT
+
+<img src="https://img.shields.io/badge/PROYECTO%20INSIGNIA-SaaS%20Multi-Tenant%20%7C%20Omnicanal%20con%20IA-087E8B?style=for-the-badge" alt="Proyecto insignia"/>
+
+### CRM omnicanal con IA · Multi-tenant y multicanal
+
+IQUENOBOT es un CRM SaaS con inteligencia artificial para atención al cliente, diseñado para alojar múltiples empresas en una sola plataforma con aislamiento completo de datos. Todos los mensajes de cada canal (WhatsApp, Telegram, Messenger, Instagram, Email, SMS, Webchat) pasan por un **Conversation Orchestrator** que centraliza la validación, la resolución de tenant y contacto, la persistencia y la toma de decisiones: respuesta automática con IA, asignación a agentes humanos o acciones predefinidas.
+
+### Funcionalidades trabajadas
+
+- **Multi-tenancy** con aislamiento de datos (`tenant_id` + filtros automáticos de Hibernate) y roles jerárquicos (SUPER_ADMIN, TENANT_ADMIN, SUPERVISOR, AGENT, BOT).
+- **Conversation Orchestrator** como punto de entrada único de todos los canales, con pipeline de procesamiento, métricas en tiempo real y auditoría completa de operaciones.
+- **Motor de decisiones extensible** con ejecución desacoplada de acciones (Strategy Pattern): enviar texto y multimedia, crear leads, asignar o transferir agentes, etiquetar y cerrar conversaciones, programar mensajes.
+- **Proveedores desacoplados** de WhatsApp e IA mediante interfaces: Evolution API y OpenAI implementados; preparado para WhatsApp Cloud API, Baileys, Twilio, Groq, Gemini y Claude (sin vendor lock-in).
+- **Seguridad:** autenticación JWT con refresh tokens y rotación, Bcrypt, roles y permisos, bloqueo de cuentas, CORS y variables de entorno para secretos.
+- **Gestión de contactos y conversaciones** con estados, prioridades, adjuntos, métricas de respuesta/resolución y satisfacción del cliente.
+- **API documentada** con OpenAPI/Swagger, métricas con Micrometer + Actuator y despliegue con Docker Compose (configs para Railway y Render).
+
+### Arquitectura destacada
+
+- **Clean Architecture + DDD:** módulos por bounded contexts (auth, contact, conversation, ai) organizados en capas application / domain / infrastructure / interfaces.
+- **Multi-tenancy (shared schema):** `tenant_id` en todas las tablas, TenantContext por hilo y filtros de Hibernate; auditoría, soft delete y optimistic locking a nivel de entidad base.
+- **Eventos y extensibilidad:** sistema de eventos (mensajes recibidos, agentes asignados, bot respondió) y registro automático de nuevos executors de acciones.
+- **Infraestructura:** Docker, Nginx y Evolution API orquestados con Docker Compose; migraciones versionadas con Flyway.
+
+### Tecnologías utilizadas
+
+`Java 21` · `Spring Boot` · `Spring Security (JWT)` · `Spring Data JPA` · `PostgreSQL` · `Flyway` · `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Socket.IO` · `Docker` · `Evolution API` · `OpenAI`
+
+<div align="center">
+  <a href="https://github.com/valle79/iquenobot">
+    <img src="https://img.shields.io/badge/EXPLORAR%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio de IQUENOBOT"/>
+  </a>
+</div>
+
+---
+
+## 02 · NETLAND
 
 ### Plataforma de gestión inmobiliaria
 
@@ -210,7 +247,7 @@ NETLAND es una aplicación orientada a la presentación y administración de pro
 
 ---
 
-## 02 · KARVATECH
+## 03 · KARVATECH
 
 ### Plataforma web para el sector automotriz
 
@@ -256,6 +293,32 @@ KARVATECH es un proyecto web enfocado en la presentación de soluciones del sect
 <div align="center">
   <a href="https://github.com/luisvc261190/karvatech-supabase">
     <img src="https://img.shields.io/badge/EXPLORAR%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio de KARVATECH"/>
+  </a>
+</div>
+
+---
+
+## 04 · SYSTEMSCHOOL
+
+### Sistema de gestión escolar basado en microservicios
+
+SYSTEMSCHOOL es un backend distribuido conformado por diez servicios independientes (auth, colegio, profesores, aulas, alumnos, asistencia, calificaciones, reuniones, documentos y API Gateway). Cada servicio expone su propia API REST documentada con Swagger y puede desplegarse de forma independiente, comunicándose a través de un gateway centralizado.
+
+### Funcionalidades trabajadas
+
+- **10 microservicios** Spring Boot con responsabilidades independientes y despliegue individual por puerto.
+- **API Gateway** centralizado (Spring Cloud Gateway) como puerta de enlace única del sistema.
+- **Autenticación y autorización** en un servicio dedicado (Auth Service).
+- **CRUD completo** en todos los servicios con eliminación lógica, restauración de registros y auditoría (quién creó, modificó y eliminó).
+- **Documentación y monitoreo:** OpenAPI/Swagger por servicio y health checks con Spring Actuator.
+
+### Tecnologías utilizadas
+
+`Java 17` · `Spring Boot 3` · `Spring WebFlux` · `Spring Cloud Gateway` · `R2DBC` · `H2 Database` · `OpenAPI` · `Spring Actuator`
+
+<div align="center">
+  <a href="https://github.com/valle79/systemschool">
+    <img src="https://img.shields.io/badge/EXPLORAR%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio de SYSTEMSCHOOL"/>
   </a>
 </div>
 
