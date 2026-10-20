@@ -2,12 +2,28 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111F,50:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=27&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%26%20FULL-STACK&descAlignY=58&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,40:123B5D,100:087E8B&text=LUIS%20ALBERTO%20VALLE%20CORONADO&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=BACKEND%20%26%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=15&animation=fadeIn&section=header"
     width="100%"
     alt="Encabezado profesional de Luis Alberto Valle Coronado"
   />
 
   <br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Java+%26+Spring+Boot;Arquitectura+de+Software;APIs+y+Microservicios;React+%26+TypeScript;PostgreSQL+%26+Docker"
+    alt="Backend · Java · Spring · Arquitectura · Microservicios · React"
+  />
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </p>
 
   <a href="https://github.com/valle79">
     <img src="https://img.shields.io/badge/GitHub-valle79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
