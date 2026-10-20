@@ -25,7 +25,7 @@
   <tr>
     <td width="220" align="center" valign="middle">
       <img
-        src="./assets/foto-perfil.jpg"
+        src="./assets/valle.png"
         width="170"
         alt="Fotografía de perfil"
       />
