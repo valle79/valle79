@@ -204,6 +204,32 @@ IQUENOBOT es un CRM SaaS con inteligencia artificial para atención al cliente, 
 
 `Java 21` · `Spring Boot` · `Spring Security (JWT)` · `Spring Data JPA` · `PostgreSQL` · `Flyway` · `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Socket.IO` · `Docker` · `Evolution API` · `OpenAI`
 
+### Capturas del proyecto
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="./assets/proyectos/lukabot.png"
+        width="100%"
+        alt="Página principal de lukabot"
+      />
+      <br/>
+      <strong>01 · Interfaz pública</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="./assets/proyectos/lukabot_chat.png"
+        width="100%"
+        alt="Panel - chat de lukabot"
+      />
+      <br/>
+      <strong>02 · Panel de administración</strong>
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
   <a href="https://github.com/valle79/iquenobot">
     <img src="https://img.shields.io/badge/EXPLORAR%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorio de IQUENOBOT"/>
@@ -331,6 +357,31 @@ SYSTEMSCHOOL es un backend distribuido conformado por diez servicios independien
 ### Tecnologías utilizadas
 
 `Java 17` · `Spring Boot 3` · `Spring WebFlux` · `Spring Cloud Gateway` · `R2DBC` · `H2 Database` · `OpenAPI` · `Spring Actuator`
+
+### Capturas del proyecto
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="./assets/proyectos/sigei.png"
+        width="100%"
+        alt="Página principal de Netland"
+      />
+      <br/>
+      <strong>01 · Panel de administración</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="./assets/proyectos/netland-panel.png"
+        width="100%"
+        alt="Panel administrativo de Netland"
+      />
+      <br/>
+      <strong>02 · Panel de administración</strong>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/valle79/systemschool">
