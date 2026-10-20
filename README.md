@@ -313,7 +313,7 @@ KARVATECH es un proyecto web enfocado en la presentación de soluciones del sect
   <tr>
     <td width="50%" align="center" valign="top">
       <img
-        src="./assets/proyectos/karvatech-inicio.png"
+        src="./assets/proyectos/karvatech_web.png"
         width="100%"
         alt="Página principal de KARVATECH"
       />
@@ -322,7 +322,7 @@ KARVATECH es un proyecto web enfocado en la presentación de soluciones del sect
     </td>
     <td width="50%" align="center" valign="top">
       <img
-        src="./assets/proyectos/karvatech-admin.png"
+        src="./assets/proyectos/karvatech_admin.png"
         width="100%"
         alt="Panel administrativo de KARVATECH"
       />
@@ -366,16 +366,16 @@ SYSTEMSCHOOL es un backend distribuido conformado por diez servicios independien
       <img
         src="./assets/proyectos/sigei.png"
         width="100%"
-        alt="Página principal de Netland"
+        alt="Página principal de SIGEI"
       />
       <br/>
       <strong>01 · Panel de administración</strong>
     </td>
     <td width="50%" align="center" valign="top">
       <img
-        src="./assets/proyectos/netland-panel.png"
+        src="./assets/proyectos/sigei_matriculas.png"
         width="100%"
-        alt="Panel administrativo de Netland"
+        alt="Panel administrativo de SIGEI"
       />
       <br/>
       <strong>02 · Panel de administración</strong>
